@@ -7,5 +7,6 @@ int main(void)
     *pt1 = 99;
     printf("%d\n",a);
     printf("%d\n",*pt1);
+    printf("Hello world\n");
     return 0;
 }
