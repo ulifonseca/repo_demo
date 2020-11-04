@@ -8,5 +8,10 @@ int main(void)
     printf("%d\n",a);
     printf("%d\n",*pt1);
     printf("Hello world\n");
+    for (int i = 0; i < 5; i++)
+    {
+        printf("My love miri\n");
+    }
+    
     return 0;
 }
