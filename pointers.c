@@ -12,6 +12,7 @@ int main(void)
     {
         printf("My love miri\n");
     }
+<<<<<<< HEAD
 
     int i= 0;
     while(i<3)
@@ -19,6 +20,8 @@ int main(void)
         printf("Love you more!\n");
         i++;
     }
+=======
+>>>>>>> ab8d34639539598cf79da978e3eeba33a3f8d1ea
     
     return 0;
 }
